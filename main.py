@@ -4,7 +4,7 @@ import os
 import requests
 from google import genai
 from google.genai import types
-from api_keys import gemini_api_key, dream_api_key
+from api_keys import gemini_api_key, stability_api_key
 import io
 
 
